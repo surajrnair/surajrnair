@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hello 👋, I'm Suraj Nair</h1>
 
 <h3 align="center">Data Analyst | SQL • Python • Power BI • Forecasting</h3>
