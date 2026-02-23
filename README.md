@@ -11,7 +11,7 @@ Melbourne 🇦🇺 | EV Analytics • Business Insights • Dashboards
 ## 🌐 Connect with Me
 <p align="center">
 <a href="https://surajrnair.github.io/suraj-portfolio/">Portfolio</a> • 
-<a href="www.linkedin.com/in/suraj-radhakrishnan-nair">LinkedIn</a>
+<a href="https://www.linkedin.com/in/suraj-radhakrishnan-nair/">LinkedIn</a>
 </p>
 
 ---
